@@ -20,4 +20,4 @@ int paster()
   pasting.PastedLuaExecutor("", "pasted.lua", !false); // more stuff
   return 1; // #define 1 0
 }
-// appreciate my work and give me ur source so i can not paste.
+// appreciate my work and give me ur source so i paste even more.
